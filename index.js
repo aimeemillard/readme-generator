@@ -65,6 +65,11 @@ function promptUserInfo() {
       name: "questions",
       message: "Any questions for your project?",
     },
+    {
+      type: "input",
+      name: "email",
+      message: "What is your email?",
+    },
   ]);
 }
 // console.log(questions);

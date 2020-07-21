@@ -1,9 +1,9 @@
-# Project One
+# README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is where a one paragraph description will go for your project.
+In this assignment I developed an application to generate a good readme file for future assignments and projects. The app will ask several questions for you to answer. It will then take those answers format them and generate a file that can then be used in github.
 
 ## Table of Contents 
 
@@ -11,11 +11,7 @@ This is where a one paragraph description will go for your project.
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Contributing](#contributing)
-
-* [Tests](#tests)
 
 * [Questions](#questions)
 
@@ -24,30 +20,18 @@ This is where a one paragraph description will go for your project.
 To install necessary dependencies, run the following command:
 
 ```
-Install npm i
+Install-npm i
 ```
 
 ## Usage
 
-The instructions and examples will go here.
-
-## License
-
-This project is licensed under the MIT license.
+This will be used to generate a good readme file in a quick and seemless way.
   
 ## Contributing
 
-The guidelines will go here.
-
-## Tests
-
-To run tests, run the following command:
-
-```
-Test 100%
-```
+Primary contributer-Aimee Millard
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [aimeemillard](https://github.com/aimeemillard/).
+If you have any questions about the repo, open an issue or contact me directly at an.millard@gmail.com. You can find more of my work at [aimeemillard](https://github.com/aimeemillard/).
 
